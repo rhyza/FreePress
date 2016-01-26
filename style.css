@@ -1,0 +1,87 @@
+h1, h2, h3, h4 {
+  font-family: "Oswald", "Impact", sans-serif;
+}
+
+p {
+  font-family: "Cutive Mono", "Courier New", monospace;
+}
+
+a {
+  color: #33CCFF;
+}
+
+a:hover {
+  color: #2EB8E6;
+}
+
+.icon {
+  float: left;
+  position: fixed;
+  padding: 10px;
+}
+
+.jumbotron {
+  background-image:url("https://goo.gl/dFXHeB");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  color: black;
+}
+
+.download {
+  border: 1px solid #585858;
+  border-radius: 15px;
+  padding: 5px 10px 5px 10px;
+  background-color: #626262;
+  font-family: "Courier New", monospace;
+  color: white;
+}
+
+.learn-more {
+  color: white;
+  padding: 10px;
+}
+
+.learn-more .col-sm-5 {
+  background-color: black;
+  margin-bottom: 20px;
+}
+
+.issues h1 {
+  text-align: center;
+  line-height: 2;
+}
+
+.issues .row {
+  padding-bottom: 50px;
+}
+
+.issues .group {
+  display: none;
+}
+
+.issues img {
+  max-width: 100%;
+  height: auto;
+}
+
+.issues .left {
+  text-align: right;
+}
+
+.issues .right {
+  text-align: left;
+}
+
+.show-more img {
+  display: block;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 5px;
+}

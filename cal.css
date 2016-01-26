@@ -1,0 +1,65 @@
+h1, h2 {
+  font-family: "Oswald", "Impact", sans-serif;
+}
+
+p {
+  font-family: "Cutive Mono", "Courier New", monospace;
+}
+
+a {
+  color: #33CCFF;
+}
+
+a:hover {
+  color: #2EB8E6;
+}
+
+.icon {
+  float: left;
+  position: fixed;
+  padding: 10px;
+}
+
+.jumbotron {
+  background-image:url("https://goo.gl/dFXHeB");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  color: black;
+}
+
+.download {
+  border: 1px solid #585858;
+  border-radius: 15px;
+  padding: 5px 10px 5px 10px;
+  background-color: #626262;
+  font-family: "Courier New", monospace;
+  color: white;
+}
+
+.calendar {
+  font-family: "Helvetica", sans-serif;
+}
+
+.calendar h1 {
+  text-align: center;
+}
+
+.calendar p {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.calendar th {
+  color: gray;
+}
+
+.calendar a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.calendar .fpevent a, .fpevent {
+  color: red;
+}
